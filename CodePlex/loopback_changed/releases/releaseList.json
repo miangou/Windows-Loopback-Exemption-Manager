@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0",
+    "Name": "WindowsLoopbackManager v1.1",
+    "DevelopmentStatus": "Stable",
+    "Description": "First release",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2016-04-20T07:38:50.837-07:00",
+    "Files": [
+      {
+        "Id": "645f491c-e1bc-4457-9823-29d8fcb10cd6",
+        "FileName": "WindowsLoopbackManager.exe",
+        "Url": "./0/645f491c-e1bc-4457-9823-29d8fcb10cd6",
+        "Type": "Application",
+        "UploadDate": "2016-04-20T07:37:49.513-07:00"
+      }
+    ]
+  }
+]

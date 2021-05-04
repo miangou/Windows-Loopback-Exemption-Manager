@@ -1,0 +1,56 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "I just purchased PLEX Media App. for Windows 8/8.1and had high hopes it would work, but of course, most Applications do little more than surprise you WHEN and IF the function, but of the time, we lost precious time AND money.\n\nPLEX said to come here; I have registered and I see nothing...",
+    "LastUpdatedDate": "2017-03-23T03:47:36.783-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "loopback",
+    "ReportedDate": "2014-11-08T16:09:22.337-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "PLEX",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 2,
+    "Id": 3099
+  },
+  "FileAttachments": [
+    {
+      "FileId": 1274,
+      "FileName": "Windows8LoopbackManager.exe",
+      "DownloadUrl": ".\\1274"
+    }
+  ],
+  "Comments": [
+    {
+      "Message": "I see I coulda, shoulda and woulda attached the PLEX file, bt they did not give e any instructions.",
+      "PostedDate": "2014-11-08T16:10:48.7-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-03-23T03:47:36.783-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

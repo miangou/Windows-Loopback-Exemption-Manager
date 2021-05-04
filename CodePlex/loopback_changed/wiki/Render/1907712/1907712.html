@@ -1,0 +1,35 @@
+<div class="wikidoc">
+  <b>Project Description</b>
+  <br />GUI to enable Loopback Exemptions for Universal Windows Apps and Windows 8 Modern UI Apps
+  <br />
+  <br />Project moved to
+  <a href="https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager">GitHub</a>
+  <br />
+  <br />By default, Windows Modern UI and Universal Apps are forbidden to send network traffic to the local Computer. In order to debug Apps with a tool, we need to enable Loopback capabilities for those Apps.
+  <br />This tool enables the management of the Apps that can connect to the local Computer.
+  <br />
+  <br />More information about this topic:
+  <br />
+  <a href="http://blogs.msdn.com/b/fiddler/archive/2011/12/10/fiddler-windows-8-apps-enable-loopback-network-isolation-exemption.aspx">Revisiting Fiddler and Windows 8 Metro-style applications</a>
+  <br />
+  <a href="http://blogs.msdn.com/b/fiddler/archive/2011/09/14/fiddler-and-windows-8-metro-style-applications-https-and-private-network-capabilities.aspx">Fiddler and Windows 8 Metro-style applications</a>
+  <br />
+  <a href="http://msdn.microsoft.com/en-us/library/windows/apps/Hh780593.aspx">How to enable loopback and troubleshoot network isolation (Windows Store apps)</a>
+  <br />
+  <br />Check the source code of this project on a sample usage of the Network Isolation APIs :
+  <ul>
+    <li>NetworkIsolationEnumAppContainers</li>
+    <li>NetworkIsolationFreeAppContainers</li>
+    <li>NetworkIsolationGetAppContainerConfig</li>
+    <li>NetworkIsolationSetAppContainerConfig</li></ul>
+  <br />
+  <img src="./loopback.png" alt="loopback.png" title="loopback.png" />
+  <br />
+  <br />This tool does basically the same thing as Fiddler EnableLoopback Utility available
+  <a href="../../../releases/0/EnableLoopbackUtility.exe">here</a>
+  <br />
+  <br />Thanks to
+  <a href="http://stackoverflow.com/users/126229/ericlaw">Eric Lawrence</a>for helping with the PInvokes.
+  <br />
+  <br />Tiago Andrade e Silva</div>
+<div class="ClearBoth"></div>
