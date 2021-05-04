@@ -1,3 +1,7 @@
+#FORK后的注释
+这个项目原站点：CodePlex
+即将要废弃所以故把原GitHub代码和CodePlex代码都备份一次
+
 # Project Description
 
 GUI to enable Loopback Exemptions for Universal Windows Apps and Windows 8 Modern UI Apps 
